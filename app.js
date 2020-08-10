@@ -40,7 +40,7 @@ document.querySelector(".btn-hold").addEventListener("click", function() {
         document.getElementById("score-" + activePlayer).textContent = scores[activePlayer];
 
         // check if the player won the game
-        if (scores[activePlayer] >= 20) {
+        if (scores[activePlayer] >= 50) {
             document.getElementById("name-" + activePlayer).textContent = "Winner!";
             document.querySelector(".player-" + activePlayer + "-panel").classList.add("winner");
             document.querySelector(".player-" + activePlayer + "-panel").classList.remove("active");
