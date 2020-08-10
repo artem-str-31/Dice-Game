@@ -104,6 +104,7 @@ body {
 button {
     position: absolute;
     width: 200px;
+    height: 35px;
     left: 50%;
     transform: translateX(-50%);
     color: #555;
@@ -135,7 +136,7 @@ i {
     transition: margin 0.3s;
 }
 
-.btn-new { top: 45px;}
+.btn-new { top: 40px;}
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
 
