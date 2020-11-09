@@ -1,5 +1,5 @@
 # Pig-game
-Follow the link in order to play the game: <a href="https://artem-str-31.github.io/Pig-game/">Pig game</a><br>
+Follow the link in order to play the game: <a href="https://bloodev.com/artem-projects/pig-game/">Pig game</a><br>
 
 <br>
 
